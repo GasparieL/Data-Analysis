@@ -1,0 +1,13 @@
+name: Taxi
+title: Taxi
+username:
+account: rprojectgaspariani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9318640
+bundleId: 7352083
+url: https://rprojectgaspariani.shinyapps.io/Taxi/
+when: 1686884588.19964
+lastSyncTime: 1686884588.19965
+asMultiple: FALSE
+asStatic: FALSE
